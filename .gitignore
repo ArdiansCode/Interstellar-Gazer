@@ -1,0 +1,15 @@
+# Mengabaikan virtual environment
+venv/
+ENV/
+env/
+
+# Mengabaikan file rahasia
+.env
+
+# Mengabaikan cache python
+**/__pycache__/
+*.pyc
+
+# Mengabaikan file OS (opsional)
+.DS_Store
+Thumbs.dbS
